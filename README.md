@@ -1,2 +1,2 @@
 # lead-tracker
- save leads using lead tracker chrome extension
+traverse the web and save leads
